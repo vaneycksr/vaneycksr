@@ -11,20 +11,16 @@ Keep calm and the Readme is almost done
 ### 🔨 Languages and Tools:
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
 
 
 <br>
 <br>
+
 
 ### 📊 Github Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaneycksr&show_icons=true&hide_rank=true&include_all_commits=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneycksr&layout=compact)](https://github.com/vaneycksr/github-readme-stats)
-
-
 
 
 
