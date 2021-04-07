@@ -1,4 +1,4 @@
-### Hi there, I'm Van Eyck 👋 (WIP...)
+### Hi there, I'm Van Eyck 👋 
 
 <a href='https://www.linkedin.com/in/van-eyck/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/vaneycksr/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -6,7 +6,14 @@
 <br>
 <br>
 
-Keep calm and the Readme is almost done
+- 🔭 I’m currently working as Software Quality Enginner at Sensedia
+- 🌱 I’m currently learning about tests in APIs with Cucumber
+- 💻 All my projects are available on GitHub
+- 💬 Ask me about whatever you want, and if I know, I certainly answer
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to play chess, read books, and listen a good forró
+
+
 
 ### 🔨 Languages and Tools:
 
