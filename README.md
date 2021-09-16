@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning about tests in APIs with Cucumber
 - 💻 All my projects are available on GitHub
 - 💬 Ask me about whatever you want, and if I know, I certainly answer
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play chess, read books, and listen a good forró
+- ⚡ Fun fact: I like to play chess and read books
 
 
 
